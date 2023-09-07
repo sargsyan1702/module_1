@@ -3,6 +3,8 @@
 
 License: [Apache](license.md)
 
+![logo](./logo/Git-Logo-Black.png)
+
 ---
 
 ## Содержание:
@@ -24,4 +26,6 @@ License: [Apache](license.md)
     3.6 [git clone](./GIT%20Commands/clone.md)
 ---
 
-GIT logo by Jason Long - https://git-scm.com/downloads/logos, license: [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
+GIT logo by Jason Long - https://git-scm.com/downloads/logos, 
+
+License: [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
