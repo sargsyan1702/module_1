@@ -1,0 +1,10 @@
+*.sw?
+*.njsproj
+*.suo
+.idea
+*.doc?
+*.sln
+*.ntvs*
+*.log
+.vscode
+*.txt
