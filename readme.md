@@ -32,6 +32,19 @@
 
     3.10 [git pull](./GIT%20Commands/pull.md)
 
+    3.11 [git diff](./GIT%20Commands/diff.md)
+
+    3.12 [git fetch](./GIT%20Commands/fetch.md)
+
+    3.13 [git merge](./GIT%20Commands/merge.md)
+
+    3.14 [git rebase](./GIT%20Commands/rebase.md)
+
+    3.15 [git revert](./GIT%20Commands/revert.md)
+
+
+
+
 
 
 ---
