@@ -24,6 +24,14 @@ License: [Apache](license.md)
     3.5 [git push](./GIT%20Commands/push.md)
 
     3.6 [git clone](./GIT%20Commands/clone.md)
+
+    3.7 [git log](./GIT%20Commands/log.md)
+
+    3.8 [git checkout](./GIT%20Commands/checkout.md)
+
+    3.9 [git branch](./GIT%20Commands/branch.md)
+
+    3.10 [git pull](./GIT%20Commands/pull.md)
 ---
 
 GIT logo by Jason Long - https://git-scm.com/downloads/logos, 
