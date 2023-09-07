@@ -1,7 +1,6 @@
 # Учимся рабоать с GIT
+[Что такое GIT](about%20GIT.md)
 
-
-License: [Apache](license.md)
 
 ![logo](./logo/Git-Logo-Black.png)
 
@@ -32,6 +31,11 @@ License: [Apache](license.md)
     3.9 [git branch](./GIT%20Commands/branch.md)
 
     3.10 [git pull](./GIT%20Commands/pull.md)
+
+
+
+---
+License: [Apache](license.md)
 ---
 
 GIT logo by Jason Long - https://git-scm.com/downloads/logos, 
